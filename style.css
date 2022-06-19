@@ -19,7 +19,7 @@ section, main, footer{
 }
 
 .hero{
-    background-image: url(/images/bg-hero-desktop.svg);
+    background-image: url(images/bg-hero-desktop.svg);
     background-repeat: no-repeat;
     background-position: center center;
     background-color:  hsl(208, 11%, 55%);
